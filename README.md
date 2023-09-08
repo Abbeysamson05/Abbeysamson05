@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Abbeysamson05
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I am Software Developer (C#, Asp.Net, React, Nextjs) with 2 years plus experience. I design and code scalable software solution
+- 📫 How to reach me - ajayiabiodunsamson05@gmail.com
 
 <!---
 Abbeysamson05/Abbeysamson05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
