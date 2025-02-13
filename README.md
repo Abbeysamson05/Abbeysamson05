@@ -1,4 +1,4 @@
-- 👋 Hi, I am Software Developer (C#, Asp.Net, React, Nextjs) with 2 years plus experience. I design and code scalable software solution
+- 👋 Hi, I am Software Developer (C#, Asp.Net, React, Nextjs) with 3 years plus experience. I design and code scalable software solution
 - 📫 How to reach me - ajayiabiodunsamson05@gmail.com
 
 <!---
